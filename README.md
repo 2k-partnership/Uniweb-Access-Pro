@@ -1,8 +1,8 @@
-# Uniweb Access
+# Uniweb Access Pro
 
 **A web application that, given a URL, scans the webpage and returns feedback about its accessibility.**
 
-Uniweb Access is developed by Ksenia Rozhdestvenskaya, Khrystyna Tsiupa, Elizabeth Howell, and Elijah Meshnick.
+Uniweb Access is developed by Ksenia Rozhdestvenskaya, Khrystyna Tsiupa.
 
 Our aim is to provide a tool for web developers to assess the inclusivity and accessibility of their sites to a wide variety of users, including those with disabilities. We base our assessments on the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) and the checklist created by the [A11y Project](https://www.a11yproject.com/).
 
@@ -10,8 +10,6 @@ Our aim is to provide a tool for web developers to assess the inclusivity and ac
 
 - [Where to Find Us](#Where-to-Find-Us)
 - [Team](#Team)
-  - [Elijah Meshnick](#Elijah-Meshnick)
-  - [Elizabeth Howell](#Elizabeth-Howell)
   - [Khrystyna Tsiupa](#Khrystyna-Tsiupa)
   - [Ksenia Rozhdestvenskaya](#Ksenia-Rozhdestvenskaya)
 - [Tech Stack](#Tech-Stack)
@@ -20,21 +18,10 @@ Our aim is to provide a tool for web developers to assess the inclusivity and ac
 
 ## Where to Find Us
 
-### Visit our deployed application at http://uniweb-access.herokuapp.com
+### Visit our deployed application at http://
 
 ## Team
 
-#### `Elijah Meshnick`
-
-LinkedIn: https://www.linkedin.com/in/elijah-meshnick/
-
-Github: https://github.com/emeshnick
-
-#### `Elizabeth Howell`
-
-LinkedIn: https://www.linkedin.com/in/e-m-howell/
-
-Github: https://github.com/bethhowell123
 
 #### `Khrystyna Tsiupa`
 
@@ -67,6 +54,8 @@ Our backend was created with Node.js, Firebase, Express, and deployed on Heroku.
 - In addition to individual test scores, we offer visual representations of your result data and a comparison to the average score of all sites we have previously tested
 
 ## Additional Ideas
+
+- Ability to email the test record
 
 - Allow users to create an account and save their scan results to reference later
 
