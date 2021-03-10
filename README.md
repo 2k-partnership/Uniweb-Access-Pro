@@ -3,7 +3,6 @@
 **Updated Version of the Uniweb-Access Project. Added additional features.
 **A web application that, given a URL, scans the webpage and returns feedback about its accessibility.**
 
-Uniweb Access is developed by Ksenia Rozhdestvenskaya, Khrystyna Tsiupa.
 
 Our aim is to provide a tool for web developers to assess the inclusivity and accessibility of their sites to a wide variety of users, including those with disabilities. We base our assessments on the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) and the checklist created by the [A11y Project](https://www.a11yproject.com/).
 
