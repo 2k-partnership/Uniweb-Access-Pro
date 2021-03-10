@@ -1,5 +1,6 @@
 # Uniweb Access Pro
 
+**Updated Version of the Uniweb-Access Project. Added additional features.
 **A web application that, given a URL, scans the webpage and returns feedback about its accessibility.**
 
 Uniweb Access is developed by Ksenia Rozhdestvenskaya, Khrystyna Tsiupa.
